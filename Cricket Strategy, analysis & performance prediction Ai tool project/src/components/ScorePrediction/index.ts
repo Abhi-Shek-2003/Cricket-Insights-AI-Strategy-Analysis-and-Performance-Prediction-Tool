@@ -1,0 +1,1 @@
+export { ScorePrediction } from './ScorePrediction';
